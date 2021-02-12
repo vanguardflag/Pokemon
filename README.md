@@ -1,6 +1,6 @@
 # Pokemon App
 This project aims to consume data from [PokeAPI](https://pokeapi.co/) in order to present a Pokemon characters list screen with search functionality.
-also user can see the detail. use the VIPER Architecture.
+also user can see the detail. use the VIPER Architecture and you can see the samole of VIPER.
 
 # Requirements
   iOS 14.2
